@@ -1,0 +1,15 @@
+Loan status predication
+
+
+Problem Statement
+A Company wants to automate the loan eligibility process based on customer details provided while filling online applicationform. The details filled by the customer are Gender, Marital Status, Education, Number of Dependents, Income of self and co applicant, Required Loan Amount, Required Loan Term, Credit History and others. The requirements are as follows:
+
+1.Check eligibility of the Customer given the inputs described above.(Classification)
+
+2.If customer is not eligible for the input required amount and duration
+
+
+Conclusion-
+Random Forest Classifier is giving the best accuracy with an accuracy score of 81% for the testing dataset. And to get much better results ensemble learning techniques like Bagging and Boosting can also be used.
+
+That in system Data cleansing and processing, imputation of missing values, experimental analysis of the data set, model construction, model evaluation, and model testing are all steps in the prediction process. The highest level of accuracy on the data set, based on the Training Model.
